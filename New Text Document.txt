@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Map</title>
+</head>
+
+<body>
+	This is Map page
+</body>
+
+</html>
